@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cat Encyclopedia</string>
+    <string name="back_button">Back</string>
+    <string name="no_breeds_description">No cat breeds in the encyclopedia.</string>
+    <string name="loading_breeds_description">Loading cat breeds…</string>
+    <string name="cat_breed_detail_title">Breed Details</string>
+    <string name="cat_breed_name">Breed</string>
+    <string name="cat_breed_description">Description</string>
+    <string name="cat_breed_origin">Origin</string>
+    <string name="cat_breed_temperament">Temperament</string>
+    <string name="cat_breed_lifespan">Lifespan</string>
+    <string name="cat_breed_image">Photo</string>
+    <string name="cat_breed_image_not_available">Photo not available</string>
+</resources>
